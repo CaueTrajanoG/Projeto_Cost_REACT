@@ -1,0 +1,25 @@
+.title {
+    display: flex;
+    padding: .5em;
+    margin: 1em;
+    width: 90vh;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+}
+
+@media (max-width: 1200px) {
+    .title {
+        width: 70%;
+    }
+}
+
+@media (max-width: 600px) {
+    .title {
+        width: 70%;
+        margin-left: 4em;
+    }
+}

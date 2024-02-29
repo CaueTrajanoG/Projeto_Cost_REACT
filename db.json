@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": "6130",
+      "name": "Lancer",
+      "budget": "222",
+      "category_id": "2",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d486",
+      "name": "Peugeot 106",
+      "budget": "18000",
+      "category_id": "1",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0611",
+      "name": "Fiat Strada stance",
+      "budget": "25000",
+      "category_id": "2",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3200",
+      "name": "Corsa wind",
+      "budget": "6222",
+      "category_id": "2",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a04b",
+      "name": "Fusca",
+      "budget": "1201",
+      "category_id": "4",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infraestrutura"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
